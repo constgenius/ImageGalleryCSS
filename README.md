@@ -6,4 +6,6 @@ Explore the art of crafting visually appealing galleries with custom CSS styling
 
 Elevate your web design skills and make your images stand out with this CSS-driven image gallery tutorial, where the magic of :not(:hover) adds an extra layer of visual sophistication to your gallery's overall design.
 
+Live Preview: https://constgenius.github.io/ImageGalleryCSS/
+
 ![Image Gallery](images/ImageGallery.png)
